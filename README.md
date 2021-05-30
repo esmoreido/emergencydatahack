@@ -1,6 +1,8 @@
 # emergencydatahack
 Решение для хакатона Emergencydatahack от команды Ulimate hydrology
 
+Презентация → https://atsyplenkov.github.io/emergency-datahack/
+
 ### Описание репозитория
 1. Подготовка данных происходит в `R`. Все базовые операции и анализ данных описан в `data_preprocessing.R`
 2. Сама модель написана на `python` и хранится в файле `Lena_Kirensk_LSTM_multi.ipynb`
