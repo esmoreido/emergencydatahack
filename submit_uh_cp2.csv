@@ -1,4 +1,4 @@
-,year,station_id,month,day,date,delta_stage_max,index,delta_test
+,year,station_id,month,day,date,delta_stage_max,index,delta_stage_max_predicted
 0,1993,3019,4,111,1993-04-21,,3019,3.2438126
 1,1993,3019,4,112,1993-04-22,,3019,3.6709023
 2,1993,3019,4,113,1993-04-23,,3019,-24.958355
